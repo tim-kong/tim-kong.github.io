@@ -14,11 +14,12 @@ My learning interests include software engineering, programming languages and AI
 
 **E-mail:**
 
-timkong at zju dot edu dot cn (for academic use)
+timkong [at] zju.edu.cn (for academic use)
 
-timkong dot cs at outlook dot com (for personal use)
+tim [at] fixbu.gs (for personal use)
 
 **LinkedIn:** [Click here](https://www.linkedin.com/in/tim-kong-zju)
 
 **Stack Overflow:** [Click here](https://stackoverflow.com/users/13769738/tim-kong?tab=profile)
 
+**My Blog:** [FixBu.gs](https://fixbu.gs)
