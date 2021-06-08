@@ -6,9 +6,17 @@ layout: default
 </div>
 
 ## About Me
-My full name is Tim D. Kong. I'm currently a postgraduate in Zhejiang University, Hangzhou, China. From September 2016 to June 2020, I was an undergraduate in Zhejiang University City College, majoring in comuter science and technology.
+My full name is Tim Dezhen Kong. I'm currently a postgraduate in Zhejiang University, Hangzhou, China. From September 2016 to June 2020, I was an undergraduate in Zhejiang University City College, majoring in comuter science and technology.
 
-My learning interests include software engineering, programming languages and AI, especially applying AI tools on software engineering to better understand how software can be more efficiently built and maintained.
+My research interests include software engineering, programming languages and AI, especially applying AI and data analysis tools on software engineering to automate software developement and improve the quality of software artifacts.
+
+Currently I focus on these topics:
+
+- Program comprehension
+
+- Automated code review
+
+- Social factors in software engineering 
 
 ## Contact
 
