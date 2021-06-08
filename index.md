@@ -6,7 +6,7 @@ layout: default
 </div>
 
 ## About Me
-My full name is Tim Dezhen Kong. I'm currently a postgraduate in Zhejiang University, Hangzhou, China. From September 2016 to June 2020, I was an undergraduate in Zhejiang University City College, majoring in comuter science and technology.
+My full name is Tim Dezhen Kong. I'm currently a postgraduate in Zhejiang University, Hangzhou, China, supervised by Assoc. Prof. [Lingfeng Bao](https://baolingfeng.github.io). From September 2016 to June 2020, I was an undergraduate in Zhejiang University City College, majoring in computer science and technology.
 
 My research interests include software engineering, programming languages and AI, especially applying AI and data analysis tools on software engineering to automate software developement and improve the quality of software artifacts.
 
