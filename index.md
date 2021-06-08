@@ -24,10 +24,9 @@ Currently I focus on these topics:
 
 timkong [at] zju.edu.cn (for academic use)
 
-tim [at] fixbu.gs (for personal use)
+timkong12 [at] outlook.com (for personal use)
 
-**LinkedIn:** [Click here](https://www.linkedin.com/in/tim-kong-zju)
+**LinkedIn:** [Click here](https://www.linkedin.com/in/tim-kong-cs)
 
-**Stack Overflow:** [Click here](https://stackoverflow.com/users/13769738/tim-kong?tab=profile)
+**StackOverflow:** [Click here](https://stackoverflow.com/users/13769738/tim-kong?tab=profile)
 
-**My Blog:** [FixBu.gs](https://fixbu.gs)
