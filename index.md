@@ -18,6 +18,12 @@ Currently I focus on these topics:
 
 - Social factors in software engineering 
 
+## Working Experience
+
+### GongFeng Group, Tencent
+
+Internship, May 2020 - Present
+
 ## Contact
 
 **E-mail:**
