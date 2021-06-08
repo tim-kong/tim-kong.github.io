@@ -20,9 +20,9 @@ Currently I focus on these topics:
 
 ## Working Experience
 
-### GongFeng Group, Tencent
+### - GongFeng Group, Tencent
 
-Internship, May 2020 - Present
+Internship, May 2021 - Present
 
 ## Contact
 
